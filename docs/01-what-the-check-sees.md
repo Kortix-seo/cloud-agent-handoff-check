@@ -61,3 +61,7 @@ That gives the check exactly one review-shaped signal: whether the merging ident
 **History that was rewritten or deleted is gone.** Force-pushed branches, deleted branches and work that landed in a different repository are not recoverable from a clone, and the check reports only what the clone contains.
 
 **Only the default branch is a landing target.** Merges into `release`, `staging` or a long-lived feature branch are not counted. If a team lands work somewhere else and promotes it later, the promotion is the landing this script sees.
+
+## Reading further
+
+A number in the report can open a question the guide takes further: its [definition of a cloud agent](https://cloudagentsguide.com/what-is-a-cloud-agent) begins with what the agent hands back, which is the frame this check measures. The [cloud and local comparison](https://cloudagentsguide.com/cloud-agent-vs-local-agent) covers the opposite case, where the work never leaves your laptop. For teams that want the agent on their own hardware, the [self-hosted page](https://cloudagentsguide.com/self-hosted-cloud-agents) separates the layers self-hosting moves from the ones it leaves in place. A monthly price reads differently beside the [pricing page](https://cloudagentsguide.com/cloud-agent-pricing), which lays out four billing shapes: seat, credit, token bill, machine hour. Before comparing tools, the [alternatives page](https://cloudagentsguide.com/cloud-agent-alternatives) sorts them by whether the machine and the agent definition stay on your side.
