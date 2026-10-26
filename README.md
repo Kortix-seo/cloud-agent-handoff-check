@@ -54,6 +54,8 @@ The trunk is detected from `origin/HEAD`, then `main`, `master`, `trunk` and `de
 
 For the longer version of that handoff, the Cloud Agents Guide has a page on [agents that open a pull request](https://cloudagentsguide.com/cloud-agents-that-open-a-pr). It covers what a pull request from an agent should contain, and who is allowed to merge it.
 
+The rest of the guide starts from the definitions: [what a cloud agent is](https://cloudagentsguide.com/what-is-a-cloud-agent), [cloud agent vs local agent](https://cloudagentsguide.com/cloud-agent-vs-local-agent), [self-hosted cloud agents](https://cloudagentsguide.com/self-hosted-cloud-agents), [what cloud agents cost](https://cloudagentsguide.com/cloud-agent-pricing) and [cloud agent alternatives](https://cloudagentsguide.com/cloud-agent-alternatives).
+
 ## Real output
 
 Two runs on 2026-10-26. Header lines are trimmed; the rest is verbatim.
