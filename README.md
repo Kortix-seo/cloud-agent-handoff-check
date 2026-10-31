@@ -87,7 +87,7 @@ Exit status was 0 on both.
 
 ## Kortix
 
-This repo comes from [Kortix](https://kortix.com), the open-source AI Operating System: your agents, skills, memory, and connectors in one repo you own. A Kortix session works on its own branch and opens a change request that a person with the `project.gitops.merge` permission reviews and merges ([Kortix docs](https://kortix.com/docs)), which is the handoff this script audits, whichever system produced it.
+This repo comes from [Kortix](https://kortix.com), the open-source CompanyOS: your agents, skills, memory, and connectors in one repo you own. A Kortix session works on its own branch and opens a change request that a person with the `project.gitops.merge` permission reviews and merges ([Kortix docs](https://kortix.com/docs)), which is the handoff this script audits, whichever system produced it.
 
 ## Contributing
 
