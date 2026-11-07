@@ -56,6 +56,8 @@ For the longer version of that handoff, the Cloud Agents Guide has a page on [ag
 
 The rest of the guide starts from the definitions: [what a cloud agent is](https://cloudagentsguide.com/what-is-a-cloud-agent), [cloud agent vs local agent](https://cloudagentsguide.com/cloud-agent-vs-local-agent), [self-hosted cloud agents](https://cloudagentsguide.com/self-hosted-cloud-agents), [what cloud agents cost](https://cloudagentsguide.com/cloud-agent-pricing) and [cloud agent alternatives](https://cloudagentsguide.com/cloud-agent-alternatives).
 
+If the question is where the agent runs rather than what it hands back, the guide's [cloud agent platforms](https://cloudagentsguide.com/cloud-agent-platforms) page compares the sandbox layer — E2B, Northflank and Amazon Bedrock AgentCore — on what each one decides and what stays in the repository you own.
+
 ## Real output
 
 Two runs on 2026-10-26. Header lines are trimmed; the rest is verbatim.
